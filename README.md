@@ -1,0 +1,2 @@
+# gopackgist
+golang packagist
